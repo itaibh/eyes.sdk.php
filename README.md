@@ -27,3 +27,4 @@ Please check the applitools website for usage instructions:
 
 - Php Appium web example: https://applitools.com/resources/tutorial/appium/php#step-2
 
+
